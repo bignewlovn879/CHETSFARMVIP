@@ -465,8 +465,8 @@ local NotiFrame = Instance.new("Frame")
 		end
 		)
 	end 
-	DiscordLib:Notification("Thông Báo" , "Nhận Cay Thuê Ae Nao Cần IB Zalo 0763122380" , 6 ,16158296328 )
-	DiscordLib:Notification("Thông Báo" , "Script Premium Farm Chets By Duy Hub Vn" , 6 ,16158296328 )
+	DiscordLib:Notification("THÔNG BÁO" , "NHẬN CÀY THUÊ AE NÀO CẦN IB ZAlO 0763122380" , 6 ,16158296328 )
+	DiscordLib:Notification("Thông Báo" , "SRCIPT PREMIUM FARM CHETS BY DUY HUB VN" , 6 ,16158296328 )
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
         Title = "FARM CHETS",
