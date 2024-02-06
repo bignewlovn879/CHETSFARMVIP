@@ -182,8 +182,8 @@ local NotiFrame = Instance.new("Frame")
 		end
 		)
 	end 
-	DiscordLib:Notification("Thông Báo" , "Nhận Cay Thuê Ae Nao Cần IB Zalo 0763122380" , 6 ,16158296328 )
-	DiscordLib:Notification("Thông Báo" , "Script Premium Farm Chets By Duy Hub Vn" , 6 ,16158296328 )
+	DiscordLib:Notification("THÔNG BÁO" , "NHẬN CÀY THUÊ AE NÀO CẦN IB ZAlO 0763122380" , 6 ,16158296328 )
+	DiscordLib:Notification("Thông Báo" , "SCRIPT PREMIUM FARM CHETS BY DUY HUB VN" , 6 ,16158296328 )
 highChestOnly = true
 godsChalicSniper = false
 repeat task.wait(4) until game:IsLoaded()
@@ -469,8 +469,8 @@ local NotiFrame = Instance.new("Frame")
 	DiscordLib:Notification("Thông Báo" , "Script Premium Farm Chets By Duy Hub Vn" , 6 ,16158296328 )
     local CoreGui = game:GetService("StarterGui")
     CoreGui:SetCore("SendNotification", {
-        Title = "FARM CHETS PREMIUM",
-        Text = "BY DUY HUB VN ",
+        Title = "FARM CHETS",
+        Text = "BY DUY HUB VN [PREMIUM] ",
         Icon = "rbxthumb://type=Asset&id=16158296328&w=150&h=150",
         Duration = math.huge,
         Callback = AllowRunServiceBind,
@@ -494,8 +494,8 @@ end)
 
 local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
-    Title = "FARM CHETS PREMIUM",
-    Text = "BY DUY HUB VN",
+    Title = "FARM CHETS",
+    Text = "BY DUY HUB VN [PREMIUM]",
     Icon = "rbxthumb://type=Asset&id=16158296328&w=150&h=150",
     Duration = math.huge,
     Callback = AllowRunServiceBind,
